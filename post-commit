@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "helloo to my git"
+
+git push
